@@ -1,2 +1,0 @@
-# wameed-crm
-wameed-crm
